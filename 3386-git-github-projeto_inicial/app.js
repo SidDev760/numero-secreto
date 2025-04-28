@@ -1,3 +1,4 @@
+prompt = "Digite sua idade"
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
